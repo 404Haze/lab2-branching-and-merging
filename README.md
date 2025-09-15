@@ -73,7 +73,7 @@ You should now see the changes that you made are now in the `main` branch.
 
 ---
 
-- [ ] Last step! We'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
+- [X] Last step! We'll push our changes to the remote repository to share our work! (As we did in Lab 1.)
   - we suggest you check off this last item, commit that change, and then push your code.
     Check GitHub to ensure you can see your changes.
 
@@ -115,7 +115,7 @@ Now, you are almost ready to share your recipe with the remote!
 
 # TASK 3
 
-- [ ] Checkout a new branch called `task_3`.
+- [X] Checkout a new branch called `task_3`.
 
 - [ ] Commit any changes that you want to `recipe.md` to further improve the recipe.
 
